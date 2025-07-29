@@ -37,7 +37,7 @@ python supermarket_bill.py
 
 
 🧑‍💻 Sample Usage
-Enter item name (or 'done' to finish): Soap
+Enter item name (or 'done' to finish): Milk
 Enter price for 'Milk': ₹40
 Enter item name (or 'done' to finish): Rice
 Enter price for 'Rice': ₹120
