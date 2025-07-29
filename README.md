@@ -38,7 +38,7 @@ python supermarket_bill.py
 
 🧑‍💻 Sample Usage
 Enter item name (or 'done' to finish): Soap
-Enter price for 'Soap': ₹40
+Enter price for 'Milk': ₹40
 Enter item name (or 'done' to finish): Rice
 Enter price for 'Rice': ₹120
 Enter item name (or 'done' to finish): done
@@ -46,7 +46,7 @@ Enter item name (or 'done' to finish): done
  Welcome to Supermarket
 ----------------------------------------
 Item                         Price (₹)
-Soap                            40.00
+Milk                            40.00
 Rice                           120.00
 ----------------------------------------
 subtotal                       160.00
